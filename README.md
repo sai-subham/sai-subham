@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Sai Subham Sahoo
 
-<!--
-**sai-subham/sai-subham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Interested in Software Development & Government Tech Roles  
+🚀 Learning DSA, DBMS, Computer Networks
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- C / C++
+- Java
+- Python
+- HTML/CSS/Javascript
+- SQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Operating Systems
+- Networking
+- Competitive Programming
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/sai-subham-sahoo-100bb931b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- Email: saisubhamsahoo@yahoo.com
+
+
