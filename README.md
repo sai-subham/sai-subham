@@ -34,7 +34,7 @@
 ## 🦇 Bat Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sai-subham&theme=dark" height="165"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🌃 Contribution Signal
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-subham&theme=github-dark"/>
 </p>
 
 <div align="center">
@@ -52,7 +52,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake-dark.svg" height="865">
+  <img src="https://raw.githubusercontent.com/sai-subham/sai-subham/output/github-contribution-grid-snake-dark.svg" height="865">
 </p>
 
 ---
