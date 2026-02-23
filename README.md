@@ -15,11 +15,11 @@
 
 ## 🦇 About Me
 
-🧠 B.Tech CSE Student mastering **Java, DSA & Full Stack Development**  
-🦇 Writing clean code in the shadows  
-⚔️ Turning bugs into defeated villains  
-🚀 Building powerful real-world projects  
-🎯 Mission → Become an Elite Full Stack Engineer  
+- Curious B.Tech CSE student constantly improving in Java and Data Structures
+- Strong believer in fundamentals over shortcuts
+- Learning by building — turning ideas into working applications
+- Focused on consistent growth, not quick success
+- Long-term vision → Become a highly competent and dependable Full Stack Engineer
 
 ---
 
@@ -57,26 +57,23 @@
 
 ---
 
-## 🚀 Current Training
+🚀 Current Training
 
-- 📚 Advanced Data Structures & Algorithms  
-- ☕ Deep Java & System Design  
-- 🌐 Frontend + Backend Integration  
-- 🗄️ Database Architecture & APIs  
+- Mastering Data Structures & Algorithms (Java focused)
+- Strengthening Core Java + OOP + System Design Basics
+- Building Full Stack Projects (React + Node + MongoDB/MySQL)
+- Deep diving into DBMS, APIs & Backend Architecture
+- Preparing for High-Level Technical Interviews & PSU Roles
+
+🦇 Featured Missions
+
+- Full Stack Fitness Tracker System
+- Admin Dashboard with Role-Based Access
+- Secure Authentication System (JWT + Hashing)
+- Responsive Portfolio + UI Experiments
+- More classified builds under development... 
 
 ---
 
-## 🦇 Featured Missions
-
-👉 Restaurant Ordering System  
-👉 Admin Dashboard UI  
-👉 Authentication System  
-👉 More classified projects loading...  
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/Yo2E3mW.png" width="18%" />
-</p>
 
 <h3 align="center">🦇 The Dark Developer of GitHub</h3>
