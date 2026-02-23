@@ -2,7 +2,7 @@
 <h3 align="center">I am not a hero. I am a Developer.</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z4N.png" width="55%" />
+  <img src="c7ae8b9fb72d684fa46c24cbbb56b00e.png" width="45%" />
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 ## 🌃 Contribution Signal
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-subham&theme=github-dark"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-subham&bg_color=000000&color=FFA500&line=FFA500&point=FFA500&area=true&area_color=111111&hide_border=true" />
 </p>
 
 <div align="center">
