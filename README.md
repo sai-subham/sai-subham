@@ -47,12 +47,10 @@
 
 <div align="center">
   
-**The Bat Contribution Map**
-
-</div>
+## 🦇 The Bat Contribution Map
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sai-subham/sai-subham/output/github-contribution-grid-snake-dark.svg" height="865">
+  <img src="https://raw.githubusercontent.com/sai-subham/sai-subham/output/github-contribution-grid-snake-dark.svg" alt="The Bat Contribution Map">
 </p>
 
 ---
