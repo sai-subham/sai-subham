@@ -7,21 +7,21 @@
 
 <p align="center">
   <a href="https://github.com/sai-subham">
-    <img src="https://img.shields.io/badge/GOTHAM-KNIGHT-000000?style=for-the-badge&logo=github&logoColor=yellow"/>
+    <img src="https://img.shields.io/badge/BATMAN-MODE-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
   </a>
 </p>
 
----
+<hr style="border:1px solid #FFD700;">
 
 ## 🦇 About Me
 
-- Curious B.Tech CSE student constantly improving in Java and Data Structures
-- Strong believer in fundamentals over shortcuts
-- Learning by building — turning ideas into working applications
-- Focused on consistent growth, not quick success
-- Long-term vision → Become a highly competent and dependable Full Stack Engineer
+- Curious B.Tech CSE student constantly improving in Java and Data Structures  
+- Strong believer in fundamentals over shortcuts  
+- Learning by building — turning ideas into working applications  
+- Focused on consistent growth, not quick success  
+- Long-term vision → Become a highly competent and dependable Full Stack Engineer  
 
----
+<hr style="border:1px solid #FFD700;">
 
 ## 🛠️ Utility Belt (Tech Stack)
 
@@ -29,49 +29,50 @@
   <img src="https://skillicons.dev/icons?i=java,c,html,css,js,nodejs,react,express,mongodb,mysql,git,github,vscode,postman,figma&theme=dark" />
 </p>
 
----
+<hr style="border:1px solid #FFD700;">
 
 ## 🦇 Bat Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sai-subham&theme=dark" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=sai-subham&theme=black-ice&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&dates=AAAAAA" height="165"/>
 </p>
 
----
+<hr style="border:1px solid #FFD700;">
 
 ## 🌃 Contribution Signal
 
 <p align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-subham&bg_color=000000&color=FFA500&line=FFA500&point=FFA500&area=true&area_color=111111&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai-subham&bg_color=000000&color=FFD700&line=FFD700&point=FFD700&area=true&area_color=000000&hide_border=true" />
 </p>
 
-<div align="center">
-  
+<hr style="border:1px solid #FFD700;">
+
 ## 🦇 The Bat Contribution Map
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sai-subham/sai-subham/output/github-contribution-grid-snake-dark.svg" alt="The Bat Contribution Map">
+  <img src="https://raw.githubusercontent.com/sai-subham/sai-subham/output/github-contribution-grid-snake.svg" alt="The Bat Contribution Map">
 </p>
 
----
+<hr style="border:1px solid #FFD700;">
 
-🚀 Current Training
+## 🚀 Current Training
 
-- Mastering Data Structures & Algorithms (Java focused)
-- Strengthening Core Java + OOP + System Design Basics
-- Building Full Stack Projects (React + Node + MongoDB/MySQL)
-- Deep diving into DBMS, APIs & Backend Architecture
-- Preparing for High-Level Technical Interviews & PSU Roles
-
-🦇 Featured Missions
-
-- Full Stack Fitness Tracker System
-- Admin Dashboard with Role-Based Access
-- Secure Authentication System (JWT + Hashing)
-- Responsive Portfolio + UI Experiments
-- More classified builds under development... 
+- Mastering Data Structures & Algorithms (Java focused)  
+- Strengthening Core Java + OOP + System Design Basics  
+- Building Full Stack Projects (React + Node + MongoDB/MySQL)  
+- Deep diving into DBMS, APIs & Backend Architecture  
+- Preparing for High-Level Technical Interviews & PSU Roles  
 
 ---
 
+## 🦇 Featured Missions
+
+- Full Stack Fitness Tracker System  
+- Admin Dashboard with Role-Based Access  
+- Secure Authentication System (JWT + Hashing)  
+- Responsive Portfolio + UI Experiments  
+- More classified builds under development...  
+
+---
 
 <h3 align="center">🦇 The Dark Developer of GitHub</h3>
