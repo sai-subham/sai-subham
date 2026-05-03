@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/sai-subham">
-    <img src="https://img.shields.io/badge/BATMAN-MODE-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
+    <img src="https://img.shields.io/badge/GOTHAM-MODE-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
   </a>
 </p>
 
